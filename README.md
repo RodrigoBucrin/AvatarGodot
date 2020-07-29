@@ -4,7 +4,7 @@ En este proyecto se busca obtener la postura de una persona para su simulación 
 
 #Pasos [Editar]
 ------
-> *OpenCv y OpenPose usando el DNN de MobileNet ( 7 MB)
+> *OpenCv y OpenPose usando el DNN de MobileNet ( 7 MB) [Modificado del ejemplo oficial  https://github.com/opencv/opencv/blob/master/samples/dnn/openpose.py]
 
 > *Desarrollo de un modelo 3D en Godot capaz de reaccionar las entradas arrojadas por python.
 
