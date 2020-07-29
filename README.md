@@ -15,3 +15,8 @@ En este proyecto se busca obtener la postura de una persona para su simulación 
 # Avance Actual:
 
 > Implementación de OpenPose usando "graph_opt.pb" 
+
+
+
+
+------------------ 29/07/2020
