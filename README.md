@@ -10,13 +10,30 @@ En este proyecto se busca obtener la postura de una persona para su simulación 
 
 > *Comunicación entre los KeyPoints y Godot
 
+
+
+# Pasos para implementar:
 -------
+
+*[1]: Lanzar el Servidor en Godot ( Ejecutar el proyecto con Servidor.gd y Avatar.tscn como mainScene)
+
+*[2]: Ejecutar el script de python ( AvatarGodot.py )
+
+-------
+
 
 # Avance Actual:
 
-> Implementación de OpenPose usando "graph_opt.pb" 
+
+> Implementación de OpenPose usando "graph_opt.pb"
+
+> Implementación de WebSockets para la comunicación con Godot
+
+> Integración con MultiThreading 
+
+> Servidor en Godot 
+
+------------------
+ 03/08/2020
 
 
-
-
------------------- 29/07/2020
